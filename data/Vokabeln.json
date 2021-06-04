@@ -1,0 +1,464 @@
+{
+    "単語": {
+        "よし": {
+            "0": {
+                "Variationen": ["好し","良し","善し"],
+                "Bedeutung": "gut",
+                "Flexion": "形ク"
+            }
+        },
+        "あし": {
+            "0": {
+                "Variationen": ["悪し"],
+                "Bedeutung": "schlecht, böse",
+                "Flexion": "形シク"
+            }
+        },
+        "つぼ": {
+            "0": {
+                "Variationen": ["壺"],
+                "Bedeutung": "Topf",
+                "Flexion": "名"
+            }
+        },
+        "お": {
+            "0": {
+                "Variationen": ["御"],
+                "Bedeutung": "honoratives Präfix",
+                "Flexion": "名"
+            }
+        },
+        "くすり": {
+            "0": {
+                "Variationen": ["薬"],
+                "Bedeutung": "Medizin, Arznei, Heilmittel",
+                "Flexion": "名"
+            }
+        },
+        "たてまつる": {
+            "0": {
+                "Variationen": ["奉る"],
+                "Bedeutung": "trinken, essen (honorativ)",
+                "Flexion": "他ラ四"
+            }
+        },
+        "ふもと": {
+            "0": {
+                "Variationen": ["麓"],
+                "Bedeutung": "Fuß eines Berges",
+                "Flexion": "名"
+            }
+        },
+        "ひえいざん": {
+            "0": {
+                "Variationen": ["比叡山"],
+                "Bedeutung": "(Ortsname) Ein Berg an der Grenze der heutigen Präfekturen Kyoto und Shiga",
+                "Flexion": "名"
+            }
+        },
+        "いと": {
+            "0": {
+                "Variationen": [],
+                "Bedeutung": "sehr, äußerst, außergewöhnlich",
+                "Flexion": "副"
+            }
+        },
+        "たごのうら": {
+            "0": {
+                "Variationen": ["田子の浦"],
+                "Bedeutung": "(Ortsname)",
+                "Flexion": "名"
+            }
+        },
+        "うちいづ": {
+            "0": {
+                "Variationen": ["打ち出づ"],
+                "Bedeutung": "herauskommen, erscheinen",
+                "Flexion": "自ダ下二"
+            }
+        },
+        "しろたへ": {
+            "0": {
+                "Variationen": ["白栲","白妙"],
+                "Bedeutung": "Weis (Farbe)",
+                "Flexion": "名"
+            }
+        },
+        "ふじのたかね": {
+            "0": {
+                "Variationen": ["富士の高嶺"],
+                "Bedeutung": "Gipfel des Fuji",
+                "Flexion": "名"
+            }
+        },
+        "つつ": {
+            "0": {
+                "Variationen": [],
+                "Bedeutung": "weiterhin [tun] (drückt das Fortgesetzten einer Handlung aus)",
+                "Flexion": "接助" 
+            },
+            "1": {  
+                "Variationen": ["筒"],
+                "Bedeutung": "ein rundes, längliches Objekt mit einem Hohlraum im Inneren",
+                "Flexion": "名"
+            }
+        },
+        "はぢ": {
+            "0": {
+                "Variationen": ["恥","辱"],
+                "Bedeutung": "(umgs.) das Gesicht verlieren, beleidigt werden",
+                "Flexion": "名"
+            }
+        },
+        "あくにん": {
+            "0": {
+                "Variationen": ["悪人"],
+                "Bedeutung": "böser Mensch, schlechter Mensch",
+                "Flexion": "名"
+            }
+        },
+        "まね": {
+            "0": {
+                "Variationen": ["真似"],
+                "Bedeutung": "Nachahmung",
+                "Flexion": "名"
+            }
+        },
+        "とて": {
+            "0": {
+                "Variationen": [],
+                "Bedeutung": "er/sie/es [sagte/n, dachte/n, etc.] (Zitationsangabe)",
+                "Flexion": "格助"
+            }
+        },
+        "いみじ": {
+            "0": {
+                "Variationen": [],
+                "Bedeutung": "ungewöhnlich, außerordentlich",
+                "Flexion": "形シク"
+            }
+        },
+        "こかげ": {
+            "0": {
+                "Variationen": ["木陰","木蔭"],
+                "Bedeutung": " Schatten, Schatten eines Baumes",
+                "Flexion": "名"
+            }
+        },
+        "ちとせ": {
+            "0": {
+                "Variationen": ["千歳","千年"],
+                "Bedeutung": "Tausende Jahre, Endlose Anzahl von Jahren",
+                "Flexion": "名"
+            }
+        },
+        "ひとよ": {
+            "0": {
+                "Variationen": ["一夜"],
+                "Bedeutung": "Eine Nacht",
+                "Flexion": "名"
+            }
+        },
+        "ここち": {
+            "0": {
+                "Variationen": ["心地"],
+                "Bedeutung": "Gefühl, Laune, Befinden",
+                "Flexion": "名"
+            }
+        },
+        "みゆ": {
+            "0": {
+                "Variationen": ["見ゆ"],
+                "Bedeutung": "sehen, erblicken, flüchtig sehen, sehen können",
+                "Flexion": ""
+            }
+        },
+        "みしる": {
+            "0": {
+                "Variationen": ["見知る"],
+                "Bedeutung": "erkennen, bekannt sein",
+                "Flexion": "他ラ四"
+            }
+        },
+        "かも": {
+            "0": {
+                "Variationen": ["賀茂"],
+                "Bedeutung": "Sammelbegriff für den Kamigamo- und Shimogamo-Schrein",
+                "Flexion": "名"
+            }
+        },
+        "くらべうま": {
+            "0": {
+                "Variationen": ["競べ馬"],
+                "Bedeutung": "Pferderennen",
+                "Flexion": "名"
+            }
+        },
+        "はべり": {
+            "0": {
+                "Variationen": ["侍り"],
+                "Bedeutung": "es ist (höfliche Form der Verben ある und いる",
+                "Flexion": "自ラ変"
+            }
+        },
+        "ざふにん ": {
+            "0": {
+                "Variationen": ["雑人"],
+                "Bedeutung": "Person niederen Ranges",
+                "Flexion": "名"
+            }
+        },
+        "へだつ": {
+            "0": {
+                "Variationen": ["隔つ"],
+                "Bedeutung": "etw. in den Weg legen, blockieren",
+                "Flexion": "他タ下二"
+            }
+        },
+        "おのおの": {
+            "0": {
+                "Variationen": ["各"],
+                "Bedeutung": "Jeder, Alle, Gleichzeitig",
+                "Flexion": "代"
+            }
+        },
+        "くだる": {
+            "0": {
+                "Variationen": ["下る","降る"],
+                "Bedeutung": "hinuntergehen, sich von einem höheren Ort zu einem niedrigen Ort begeben",
+                "Flexion": "自ラ四"
+            }
+        },
+        "けびゐし": {
+            "0": {
+                "Variationen": ["検非違使"],
+                "Bedeutung": "heianzeitlicher Polizeibeamter",
+                "Flexion": "名"
+            }
+        },
+        "はしどの": {
+            "0": {
+                "Variationen": ["橋殿"],
+                "Bedeutung": "ein Haus, das wie eine Brücke über einen Teich gebaut ist",
+                "Flexion": "名"
+            }
+        },
+        "きゃうわらはへ": {
+            "0": {
+                "Variationen": ["京童部"],
+                "Bedeutung": "Die jungen Schufte Kyotos",
+                "Flexion": "名"
+            }
+        },
+        "あらがひ": {
+            "0": {
+                "Variationen": ["争ひ","諍ひ"],
+                "Bedeutung": "Streit, Auseinandersetzung",
+                "Flexion": "名"
+            }
+        },
+        "みわたす": {
+            "0": {
+                "Variationen": ["見渡す"],
+                "Bedeutung": "den Blick schweifen lassen, in die Ferne schauen, einen Blick auf ... werfen",
+                "Flexion": "他サ四"
+            }
+        },
+        "やなぎ": {
+            "0": {
+                "Variationen": ["柳","楊柳"],
+                "Bedeutung": "bot. Weide",
+                "Flexion": "名"
+            }
+        },
+        "こきます": {
+            "0": {
+                "Variationen": ["扱き混す"],
+                "Bedeutung": "vermischen, durchmengen, durcheinanderbringen",
+                "Flexion": "他ザ下二"
+            }
+        },
+        "にしき": {
+            "0": {
+                "Variationen": ["錦"],
+                "Bedeutung": "Brokat, etw., das schön ist wie Brokat",
+                "Flexion": ""
+            }
+        },
+        "さだめなし": {
+            "0": {
+                "Variationen": ["定め無し"],
+                "Bedeutung": "unbeständig, nicht Festzusetzen",
+                "Flexion": "形ク"
+            }
+        },
+        "ひかる": {
+            "0": {
+                "Variationen": ["光る"],
+                "Bedeutung": "scheinen, glänzen, strahlen",
+                "Flexion": "自ラ四"
+            }
+        },
+        "ひとすぢ": {
+            "0": {
+                "Variationen": ["一筋"],
+                "Bedeutung": "eins (von etwas langem und dünnen)",
+                "Flexion": "名"
+            }
+        },
+        "あやしがる": {
+            "0": {
+                "Variationen": ["怪しがる"],
+                "Bedeutung": "sich wundern, sich fragen",
+                "Flexion": "他ラ四"
+            }
+        },
+        "よる": {
+            "0": {
+                "Variationen": ["寄る"],
+                "Bedeutung": "annähern, näher kommen",
+                "Flexion": "自ラ四"
+            }
+        },
+        "つね": {
+            "0": {
+                "Variationen": ["常","恒"],
+                "Bedeutung": "Normal, Natürlich, immer",
+                "Flexion": "名"
+            }
+        },
+        "おぼゆ": {
+            "0": {
+                "Variationen": ["覚ゆ"],
+                "Bedeutung": "erinnern, in den Sinn kommen",
+                "Flexion": "自ヤ下二"
+            }
+        },
+        "とふ": {
+            "0": {
+                "Variationen": ["問ふ","訪ふ"],
+                "Bedeutung": "fragen, befragen",
+                "Flexion": "自ヤ下二"
+            }
+        },
+        "きよし": {
+            "0": {
+                "Variationen": ["清し"],
+                "Bedeutung": "ganz, vollkommen, nichts mehr übrig sein",
+                "Flexion": "形ク"
+            }
+        },
+        "やむ": {
+            "0": {
+                "Variationen": ["止む"],
+                "Bedeutung": "zu ende gehen, aufhören",
+                "Flexion": "自マ四"
+            }
+        },
+        "をり": {
+            "0": {
+                "Variationen": ["折"],
+                "Bedeutung": "genau in diesem Moment (in dem etwas passiert)",
+                "Flexion": "名"
+            }
+        },
+        "ねたし": {
+            "0": {
+                "Variationen": ["妬し"],
+                "Bedeutung": "ärgerlich, lästig",
+                "Flexion": "形ク"
+            }
+        },
+        "とみ": {
+            "0": {
+                "Variationen": ["頓"],
+                "Bedeutung": "plötzlich, mit einem mal, eilig",
+                "Flexion": "名・形動ナリ"
+            }
+        },
+        "ぬふ": {
+            "0": {
+                "Variationen": ["縫ふ"],
+                "Bedeutung": "nähen",
+                "Flexion": "名・形動ナリ"
+            }
+        },
+        "はり": {
+            "0": {
+                "Variationen": ["針","鍼"],
+                "Bedeutung": "Nadel, Nähnadel",
+                "Flexion": "名"
+            }
+        },
+        "かしこし": {
+            "0": {
+                "Variationen": ["賢し"],
+                "Bedeutung": "ausgezeichnet, sehr schön",
+                "Flexion": "形ク"
+            }
+        },
+        "ひきぬく": {
+            "0": {
+                "Variationen": ["引き抜く"],
+                "Bedeutung": "herausziehen",
+                "Flexion": ""
+            }
+        },
+        "しり": {
+            "0": {
+                "Variationen": ["尻","臀","後"],
+                "Bedeutung": "Ende, hinteres Ende",
+                "Flexion": ""
+            }
+        },
+        "おほかた": {
+            "0": {
+                "Variationen": ["大方"],
+                "Bedeutung": "generell, ungefähr, normalerweise",
+                "Flexion": "副"
+            }
+        },
+        "さがてんのう": {
+            "0": {
+                "Variationen": ["嵯峨天皇"],
+                "Bedeutung": "Kaiser der frühen Heian-Zeit, Prinz von Kaiser Kammu",
+                "Flexion": ""
+            }
+        },
+        "さだまる": {
+            "0": {
+                "Variationen": ["定まる"],
+                "Bedeutung": "entscheiden, bestimmen",
+                "Flexion": "自ラ四"
+            }
+        },
+        "すでに": {
+            "0": {
+                "Variationen": ["已に","既に"],
+                "Bedeutung": "bis zu diesem Zeitpunkt, nicht mehr, vor langer Zeit",
+                "Flexion": "副"
+            }
+        },
+        "よ": {
+            "0": {
+                "Variationen": ["余"],
+                "Bedeutung": "(mit einem Wort, dass eine Anzahl / Menge darstellt) etwas größer / mehr als ...",
+                "Flexion": "名"
+            }
+        },
+        "とせ": {
+            "0": {
+                "Variationen": ["年","歳"],
+                "Bedeutung": "(Suffix) Zählwort für Jahre",
+                "Flexion": "接尾"
+            }
+        },
+        "ふ": {
+            "0": {
+                "Variationen": ["経"],
+                "Bedeutung": "Zeit verstreicht, Zeit vergeht",
+                "Flexion": "自ハ下二"
+            }
+        }
+    }
+}

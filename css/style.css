@@ -1,0 +1,76 @@
+.card-top-bar, .card-content-bar{
+    display: flex;
+    justify-content: space-between;
+    margin: 0 -10px;
+    width: 100%;
+    background-color: #CFCFCF;
+    color: #707070;
+    text-align: center;
+}
+.card-content-bar {
+    background-color: white;
+    padding-bottom: 10px;
+}
+
+.top-bar-first-three, .content-bar-first-three {
+    width: 12vw;
+    margin: 0 10px;
+}
+
+.top-bar-last, .content-bar-last {
+    width: 64vw;
+    margin-left: auto;
+}
+.content-bar-last {
+    text-align: left;
+}
+.first-item, .second-item {
+    font-size: 1.7em;
+}
+
+/* 活用-Styles für Verbalsuffixe */
+.katsuyou-form {
+    font-size: .6em;
+}
+.katsuyou-lesung {
+    font-size: 1em;
+}
+.katsuyou-container {
+    line-height: 90%;
+}
+header {
+    font-size: 2em;
+    color: #707070;
+    padding-top: 20px;
+    padding-bottom: 10px;
+    height: auto;
+}
+input {
+    float: left;
+    box-sizing: border-box;
+    height: 80%;
+    width: calc(100px + 60%);
+    margin-bottom: 20px;
+}
+#Logo {
+    width: 20%;
+    margin-left: 10px;
+    margin-right: 10px;
+    float: left;
+    line-height: 70%;
+}
+.card {
+    display: initial;
+}
+@media (max-width: 1140px) { 
+    #Logo {
+        display: none;
+    }
+    input {
+        float: none;
+    }
+    header {
+        display: flex;
+        justify-content: center;
+    }
+}

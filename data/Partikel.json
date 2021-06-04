@@ -1,0 +1,579 @@
+{
+    "Konjunktionalpartikel": {
+        "の": {
+            "Anschluss": ["体言", "連体形"],
+            "体言・連体形": {
+                "Bedeutung": [
+                    ["Nominativ", "が", "主格"],
+                    ["Attributiv", "の", "連体修飾格"],
+                    ["Apposition", "で", "同格"],
+                    ["Bezug auf die Sache", "のもの", "準体格"],
+                    ["Nähere Bestimmung", "のように", "連用修飾格"]
+                ]
+            }
+        },
+        "が": {
+            "Anschluss": ["体言", "連体形"],
+            "体言・連体形": {
+                "Bedeutung": [
+                    ["Nominativ", "が", "主格"],
+                    ["Attributiv", "の", "連体修飾格"],
+                    ["Apposition", "で", "同格"],
+                    ["Bezug auf die Sache", "のもの", "準体格"],
+                    ["Nähere Bestimmung", "のように", "連用修飾格"]
+                ]
+            }
+        },
+        "を": {
+            "Anschluss": ["体言", "連体形"],
+            "体言・連体形": {
+                "Bedeutung": [
+                    ["Nähere Bestimmung","を","連用修飾格"]
+                ]
+            }
+        },
+        "に": {
+            "Anschluss": ["体言", "連体形"],
+            "体言・連体形": {
+                "Bedeutung": [
+                    ["Fortlaufende nähere Bestimmung (Zeit, Ort, Ziel, etc.)", "に", "連用修飾格"],
+                    ["Respektvoller Nominativ", "におかせられては", "敬主格"]
+                ]
+            }
+        },
+        "へ": {
+            "Anschluss": ["体言", "連体形"],
+            "体言・連体形": {
+                "Bedeutung": [
+                    ["Fortlaufende nähere Bestimmung (Ort, Richtung, etc.)", "へ", "連用修飾格"]
+                ]
+            }
+        },
+        "と": {
+            "Anschluss": ["体言", "連体形"],
+            "体言・連体形": {
+                "Bedeutung": [
+                    ["Fortlaufende nähere Bestimmung (Zitat, Ergebnis, Vergleich, etc.)", "と", "連用修飾格"]
+                ]
+            }
+        },
+        "にて": {
+            "Anschluss": ["体言", "連体形"],
+            "体言・連体形": {
+                "Bedeutung": [
+                    ["Fortlaufende nähere Bestimmung (Mittel, Weg, Ort, etc.)", "で", "連用修飾格"]
+                ]
+            }
+        },
+        "して": {
+            "Anschluss": ["体言", "連体形"],
+            "体言・連体形": {
+                "Bedeutung": [
+                    ["Fortlaufende nähere Bestimmung (Mittel, Weg, Ort, etc.)", "で", "連用修飾格"]
+                ]
+            }
+        },
+        "より": {
+            "Anschluss": ["体言", "連体形"],
+            "体言・連体形": {
+                "Bedeutung": [
+                    ["Fortlaufende nähere Bestimmung (Kriterien, Startpunkt, Ursache, direkte Folge [sobald..., kaum dass...])", "より・から", "連用修飾格"],
+                    ["Attributives Bestimmungswort", "より・から", "連体修飾格"]
+                ]
+            }
+        },
+        "から": {
+            "Anschluss": ["体言", "連体形"],
+            "体言・連体形": {
+                "Bedeutung": [
+                    ["Fortlaufende nähere Bestimmung (Kriterien, Startpunkt, Ursache, direkte Folge [sobald..., kaum dass...])", "より・から", "連用修飾格"],
+                    ["Attributives Bestimmungswort", "より・から", "連体修飾格"]
+                ]
+            }
+        },
+        "は": {
+            "Anschluss": ["体言", "連体形"],
+            "体言・連体形": {
+                "Bedeutung": [
+                    ["Unterscheidung","は","区別"],
+                    ["Emphase","は","強意"]
+                ]
+            }
+        },
+        "も": {
+            "Anschluss": ["体言", "連体形"],
+            "体言・連体形": {
+                "Bedeutung": [
+                    ["Parallel (auch..., etc.)","も","並列"],
+                    ["Emphase","","強意"]
+                ]
+            }
+        },
+        "ぞ": {
+            "Anschluss": ["体言", "連体形"],
+            "体言・連体形": {
+                "Bedeutung": [
+                    ["Emphase","","強意"]
+                ]
+            },
+            "Anmerkung": "Verb danach steht immer in der 連体形."
+        },
+        "なむ": {
+            "Anschluss": ["体言", "連体形"],
+            "体言・連体形": {
+                "Bedeutung": [
+                    ["Emphase","","強意"]
+                ]
+            },
+            "Anmerkung": "Verb danach steht immer in der 連体形."
+        },
+        "や": {
+            "Anschluss": ["体言", "連体形"],
+            "体言・連体形": {
+                "Bedeutung": [
+                    ["Frage","か","疑問"],
+                    ["Antiphrase, Ironie, Rethorische Frage","…か、いや、…ない","反語"],
+                    ["Parallel (unter anderem..., etc.)","や","並列"]
+                ]
+            }
+        },
+        "か": {
+            "Anschluss": ["体言", "連体形"],
+            "体言・連体形": {
+                "Bedeutung": [
+                    ["Frage","か","疑問"],
+                    ["Antiphrase, Ironie, Rethorische Frage","…か、いや、…ない","反語"],
+                    ["Parallel (unter anderem..., etc.)","や","並列"]
+                ]
+            }
+        },
+        "こそ": {
+            "Anschluss": ["体言", "連体形"],
+            "体言・連体形": {
+                "Bedeutung": [
+                    ["Emphase","","強意"]
+                ]
+            }
+        }
+    },
+    "Kausalpartikel": {
+        "ば": {
+            "Anschluss": ["已然形", "未然形"],
+            "已然形": {
+                "Bedeutung": [
+                    ["Kopulative Satzverbindung einer unbedingten Bedingung", "と・ところ・～から・～ので・といつも", "順接確定条件"],
+                    ["Ursachenbedingung", "ので", "原因条件"]
+                ]
+            },
+            "未然形": {
+                "Bedeutung": [
+                    ["Kopulative Satzverbindung einer hypothetischen Annahme", "もし…ならば", "順接仮定条件"]
+                ]
+            }
+        },
+        "とも": {
+            "Anschluss": ["終止形", "形容詞の連用形"],
+            "已然形": {
+                "Bedeutung": [
+                    ["Entgegengesetzte Satzverbindung einer hypothetischen Bedingung","もし…ても","逆接確定条件"]
+                ]
+            }
+        },
+        "ど": {
+            "Anschluss": ["已然形"],
+            "已然形": {
+                "Bedeutung": [
+                    ["Entgegengesetzte Satzverbindung einer unbedingten Bedingung","けれども","逆接確定条件"]
+                ]
+            }
+        },
+        "ども": {
+            "Anschluss": ["已然形"],
+            "已然形": {
+                "Bedeutung": [
+                    ["Entgegengesetzte Satzverbindung einer unbedingten Bedingung","けれども","逆接確定条件"]
+                ]
+            }
+        },
+        "が": {
+            "Anschluss": ["連体形"],
+            "連体形": {
+                "Bedeutung": [
+                    ["Entgegengesetzte Satzverbindung einer unbedingten Bedingung","のに・けれども","逆接確定条件"],
+                    ["Kopulative Satzverbindung einer unbedingten Bedingung", "と・ところ", "順接確定条件"],
+                    ["Ursachenbedingung","ので","原因条件"]
+                ]
+            }
+        },
+        "に": {
+            "Anschluss": ["連体形"],
+            "連体形": {
+                "Bedeutung": [
+                    ["Entgegengesetzte Satzverbindung einer unbedingten Bedingung","のに・けれども","逆接確定条件"],
+                    ["Kopulative Satzverbindung einer unbedingten Bedingung", "と・ところ", "順接確定条件"],
+                    ["Ursachenbedingung","ので","原因条件"]
+                ]
+            }
+        },
+        "を": {
+            "Anschluss": ["連体形"],
+            "連体形": {
+                "Bedeutung": [
+                    ["Entgegengesetzte Satzverbindung einer unbedingten Bedingung","のに・けれども","逆接確定条件"],
+                    ["Kopulative Satzverbindung einer unbedingten Bedingung", "と・ところ", "順接確定条件"],
+                    ["Ursachenbedingung","ので","原因条件"]
+                ]
+            }
+        },
+        "ものから": {
+            "Anschluss": ["連体形"],
+            "連体形": {
+                "Bedeutung": [
+                    ["Entgegengesetzte Satzverbindung einer unbedingten Bedingung","のに・けれども","逆接確定条件"]
+                ]
+            }
+        },
+        "ものの": {
+            "Anschluss": ["連体形"],
+            "連体形": {
+                "Bedeutung": [
+                    ["Entgegengesetzte Satzverbindung einer unbedingten Bedingung","のに・けれども","逆接確定条件"]
+                ]
+            }
+        },
+        "ものゆゑ": {
+            "Anschluss": ["連体形"],
+            "連体形": {
+                "Bedeutung": [
+                    ["Entgegengesetzte Satzverbindung einer unbedingten Bedingung","のに・けれども","逆接確定条件"]
+                ]
+            }
+        },
+        "ものを": {
+            "Anschluss": ["連体形"],
+            "連体形": {
+                "Bedeutung": [
+                    ["Entgegengesetzte Satzverbindung einer unbedingten Bedingung","のに・けれども","逆接確定条件"]
+                ]
+            }
+        },
+        "て": {
+            "Anschluss": ["連用形"],
+            "連用形": {
+                "Bedeutung": [
+                    ["Reine Verknüpfung","て","単なる接続"]
+                ]
+            }
+        },
+        "して": {
+            "Anschluss": ["連用形"],
+            "連用形": {
+                "Bedeutung": [
+                    ["Reine Verknüpfung","て","単なる接続"]
+                ]
+            }
+        },
+        "で": {
+            "Anschluss": ["未然形"],
+            "連用形": {
+                "Bedeutung": [
+                    ["Verneinende Verknüpfung","ないで","打消の接続"]
+                ]
+            }
+        },
+        "つつ": {
+            "Anschluss": ["連用形"],
+            "連用形": {
+                "Bedeutung": [
+                    ["Wiederholung","…しては…してはして","反復"],
+                    ["Fortdauer","ずっと…しつづけて","継続"],
+                    ["Gleichzeitig","ながら","同時"],
+                    ["Beenden","しおわって","完了"],
+                    ["Verknüpfung","のに","接続"]
+                ]
+            }
+        },
+        "ながら": {
+            "Anschluss": ["体言","連用形"],
+            "体言・連用形": {
+                "Bedeutung": [
+                    ["Gleichzeitigkeit","ままで","同時"],
+                    ["Entgegengesetzte Satzverbindung (obwohl..., etc.","のに","逆接"]
+                ]
+            }
+        },
+        "からに": {
+            "Anschluss": ["連体形"],
+            "連用形": {
+                "Bedeutung": [
+                    ["Gleichzeitigkeit","つれて","同時"]
+                ]
+            }
+        },
+        "ままに": {
+            "Anschluss": ["連体形"],
+            "連用形": {
+                "Bedeutung": [
+                    ["Gleichzeitigkeit","つれて","同時"]
+                ]
+            }
+        }
+    },
+    "Satzendpartikel": {
+        "かし": {
+            "Anschluss": ["文末"],
+            "連用形": {
+                "Bedeutung": [
+                    ["Nachdrückliche Emphase","よ","念を押す強意"]
+                ]
+            }
+        },
+        "な": {
+            "Anschluss": ["文末", "未然形"],
+            "文末": {
+                "Bedeutung": [
+                    ["Verbot","な","禁止"],
+                    ["Ausruf","なあ","詠嘆"]
+                ]
+            },
+            "未然形": {
+                "Bedeutung": [
+                    ["Hoffnung, Wunsch","たい","希望"]
+                ]
+            }
+        },
+        "そ": {
+            "Anschluss": ["連用形", "カ変サ変の未然形"],
+            "連用形・カ変サ変の未然形": {
+                "Bedeutung": [
+                    ["Verbot","な","禁止"]
+                ]
+            }
+        },
+        "ばや": {
+            "Anschluss": ["未然形"],
+            "未然形": {
+                "Bedeutung": [
+                    ["Hoffnung, Wunsch","たい","希望"]
+                ]
+            }
+        },
+        "しが": {
+            "Anschluss": ["連用形"],
+            "連用形": {
+                "Bedeutung": [
+                    ["Hoffnung, Wunsch","たい","希望"]
+                ]
+            }
+        },
+        "しがな": {
+            "Anschluss": ["連用形"],
+            "連用形": {
+                "Bedeutung": [
+                    ["Hoffnung, Wunsch","たい","希望"]
+                ]
+            }
+        },
+        "にしが": {
+            "Anschluss": ["連用形"],
+            "連用形": {
+                "Bedeutung": [
+                    ["Hoffnung, Wunsch","たい","希望"]
+                ]
+            }
+        },
+        "にしがな": {
+            "Anschluss": ["連用形"],
+            "連用形": {
+                "Bedeutung": [
+                    ["Hoffnung, Wunsch","たい","希望"]
+                ]
+            }
+        },
+        "てしが": {
+            "Anschluss": ["連用形"],
+            "連用形": {
+                "Bedeutung": [
+                    ["Hoffnung, Wunsch","たい","希望"]
+                ]
+            }
+        },
+        "てしがな": {
+            "Anschluss": ["連用形"],
+            "連用形": {
+                "Bedeutung": [
+                    ["Hoffnung, Wunsch","たい","希望"]
+                ]
+            }
+        },
+        "なむ": {
+            "Anschluss": ["未然形"],
+            "みぜんけい": {
+                "Bedeutung": [
+                    ["Hoffnung, Wunsch (für jm. anderen)","してほしい","願望"]
+                ]
+            }
+        },
+        "「こそ」": {
+            "Anschluss": ["連用形"],
+            "連用形": {
+                "Bedeutung": [
+                    ["Hoffnung, Wunsch (für jm. anderen)","してほしい","願望"]
+                ]
+            }
+        },
+        "がな": {
+            "Anschluss": ["体言", "助詞"],
+            "体言・助詞": {
+                "Bedeutung": [
+                    ["Hoffnung, Wunsch (für jm. anderen)","してほしい","願望"]
+                ]
+            }
+        },
+        "もがな": {
+            "Anschluss": ["体言", "助詞", "形容詞", "連用形", "に", "ず"],
+            "体言・助詞・形容詞・連用形・に・ず": {
+                "Bedeutung": [
+                    ["Hoffnung, Wunsch (für jm. anderen)","してほしい","願望"]
+                ]
+            }
+        },
+        "かな": {
+            "Anschluss": ["連体形"],
+            "連体形": {
+                "Bedeutung": [
+                    ["Gefühlsregung, Begeisterung","なあ","感動"]
+                ]
+            }
+        },
+        "「かも」": {
+            "Anschluss": ["連体形"],
+            "連体形": {
+                "Bedeutung": [
+                    ["Gefühlsregung, Begeisterung","なあ","感動"]
+                ]
+            }
+        },
+        "「も」": {
+            "Anschluss": ["連体形"],
+            "連体形": {
+                "Bedeutung": [
+                    ["Gefühlsregung, Begeisterung","なあ","感動"]
+                ]
+            }
+        },
+        "は": {
+            "Anschluss": ["連体形"],
+            "連体形": {
+                "Bedeutung": [
+                    ["Gefühlsregung, Begeisterung","なあ","感動"]
+                ]
+            }
+        },
+        "「か」": {
+            "Anschluss": ["連体形"],
+            "連体形": {
+                "Bedeutung": [
+                    ["Gefühlsregung, Begeisterung","なあ","感動"]
+                ]
+            }
+        },
+        "を": {
+            "Anschluss": ["間に割り込む"],
+            "間に割り込む": {
+                "Bedeutung": [
+                    ["Gefühlsregung, Begeisterung","なあ","感動"],
+                    ["Gemeinsamkeit, Zustimmungsannahme","","整調"]
+                ]
+            }
+        },
+        "や": {
+            "Anschluss": ["間に割り込む"],
+            "間に割り込む": {
+                "Bedeutung": [
+                    ["Gefühlsregung, Begeisterung","なあ","感動"],
+                    ["Gemeinsamkeit, Zustimmungsannahme","","整調"]
+                ]
+            }
+        },
+        "よ": {
+            "Anschluss": ["間に割り込む"],
+            "間に割り込む": {
+                "Bedeutung": [
+                    ["Gefühlsregung, Begeisterung","なあ","感動"],
+                    ["Gemeinsamkeit, Zustimmungsannahme","","整調"]
+                ]
+            }
+        }
+    },
+    "Adverbialpartikel": {
+        "し": {
+            "Anschluss": ["体言", "連体形"],
+            "体言・連体形": {
+                "Bedeutung": [
+                    ["Emphase","","強意"]
+                ]
+            }
+        },
+        "だに": {
+            "Anschluss": ["体言", "連体形"],
+            "体言・連体形": {
+                "Bedeutung": [
+                    ["Analogie","さえ","類推"],
+                    ["Beschränkung, Genaue Bestimmung","せめて…だけでも","限定"]
+                ]
+            }
+        },
+        "すら": {
+            "Anschluss": ["体言", "連体形"],
+            "体言・連体形": {
+                "Bedeutung": [
+                    ["Analogie","さえ","類推"]
+                ]
+            }
+        },
+        "さへ": {
+            "Anschluss": ["体言", "連体形"],
+            "体言・連体形": {
+                "Bedeutung": [
+                    ["Zusatzangabe","までも","添加"]
+                ]
+            }
+        },
+        "のみ": {
+            "Anschluss": ["体言", "連体形"],
+            "体言・連体形": {
+                "Bedeutung": [
+                    ["Emphase","","強意"],
+                    ["Beschränkung, Genaue Bestimmung","だけ","限定"]
+                ]
+            }
+        },
+        "ばかり": {
+            "Anschluss": ["体言", "連体形"],
+            "体言・連体形": {
+                "Bedeutung": [
+                    ["Grad, Ausmas (ungefähr...)","ぐらい","程度"],
+                    ["Beschränkung, Genaue Bestimmung","だけ・まで","限定"]
+                ]
+            }
+        },
+        "まで": {
+            "Anschluss": ["体言", "連体形"],
+            "体言・連体形": {
+                "Bedeutung": [
+                    ["Grad, Ausmas (ungefähr...)","ぐらい","程度"],
+                    ["Beschränkung, Genaue Bestimmung","だけ・まで","限定"]
+                ]
+            }
+        },
+        "など": {
+            "Anschluss": ["体言", "連体形"],
+            "体言・連体形": {
+                "Bedeutung": [
+                    ["Illustrativ","なんか","例示"]
+                ]
+            }
+        }
+    }
+}

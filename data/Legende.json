@@ -1,0 +1,28 @@
+{
+    "Flexionsklassen": {
+        "未然形": ["Form zum ausdrücken von Verneinungen, Absichten und Vermutungen（ かく　≫　かか［ない］）", "みぜんけい"],
+        "連用形": [ "Verbindungsform zwischen dem Haupt- und Hilfsverb. （ かく　≫　かき［て］）", "れんようけい"],
+        "終止形": ["Satz beendende Form（ かく　≫　かく ）", "しゅうしけい"],
+        "連体形": ["Attributiv From. Steht immer vor Nomen und wird mit einem Relativ Satz übersetzt.（ かく　≫　かく［人・時］）", "れんたいけい"],
+        "已然形": ["Dient der vollendung und dem Perfekt 仮定形 (kateikei) im modernen Japanisch. Sie wird zur Bildung des Konditional benutzt.（ かく　≫　かけ［ば］）", "いぜんけい"],
+        "命令形": [ "Befehlsform.（ かく　≫　かけ ）", "めいれいけい"]
+    },
+    "Wortarten": {
+        "自立語": ["selbstständige Wortarten", "じりつご"],
+        "活用しない": ["nicht flektierende Worte", "かつようしない"],
+        "主語になれない": ["Wortarten, die nicht zum Subjekt werden", "しゅごになれない"],
+        "連体詞": ["Attribut", "れんたいし"],
+        "副詞": ["Adverb", "ふくし"],
+        "接続詞": ["Bindewort", "せつぞくし"],
+        "感動詞": ["Ausruf", "かんどうし"],
+        "活用する": ["flektierende Worte", "かつようする"],
+        "述語になれる": ["Wortarten, die das Prädikat bilden können", "じゅつごになれる"],
+        "用言": ["flektierbare Wortarten", "ようげん"],
+        "動詞": ["Verben", "どうし"],
+        "形容詞": ["i-Adjektive", "えいようし"],
+        "形容動詞": ["na-Adjektive", "けいようどうし"],
+        "付属語": ["unselbstständige Wortarten","ふぞくご"],
+        "助詞": ["Partikel","じょし"],
+        "助動詞": ["Verbalsuffixe", "じょどうし"]
+    }
+}
