@@ -100,4 +100,8 @@ typings/
 .dynamodb/
 
 # TernJS port file
-.tern-port
+.tern-port^
+
+vendor/
+.env
+
