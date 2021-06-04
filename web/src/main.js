@@ -111,7 +111,14 @@ $('#search').on('input',(e) => {
         searches.forEach((str) => {
             if(str !== "　" && str !== " " && str !== "") {
                 $('[id*=' + str + ']').each(function() {
-                    $(this).css("display", "unset");
+                    if($(this).attr("class") === "katsuyou-lesung") {
+                        //the original div that was hidden
+                        var e = $(this).parent().parent().parent().parent();
+                        e.css("display", "unset");
+                    } else {
+                        if(str === $(this).attr('id'))
+                            $(this).css("display", "unset");
+                    }
                 });
             }
         });

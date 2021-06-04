@@ -54,7 +54,7 @@ require('../vendor/autoload.php');
     </div>
     <div id="verbalsuffixe">
         <div v-for="entity in data">
-            <div v-bind:id="entity.entry"　class="card">
+            <div v-bind:id="entity.entry" class="card">
                 <div class="card-top-bar">
                     <span class="top-bar-first-three">{{ topBar.identifier }}</span>
                     <span class="top-bar-first-three">{{ topBar.anschluss }}</span>
@@ -69,7 +69,7 @@ require('../vendor/autoload.php');
                     <div class="content-bar-first-three">
                         <div class="katsuyou-container" v-for="katsuyou in entity.katsuyou">
                             <span class="katsuyou-form"> {{ katsuyou.Form }} </span><br>
-                            <span class="katsuyou-lesung"> {{ katsuyou.Lesung }} </span><br>
+                            <span v-bind:id="katsuyou.Lesung" class="katsuyou-lesung"> {{ katsuyou.Lesung }} </span><br>
                         </div>
                     </div>
                     <div class="content-bar-last">
@@ -103,7 +103,7 @@ require('../vendor/autoload.php');
                     <div class="content-bar-last">
                         <span> {{ entity.obj.Bedeutung }}</span>
                     </div>
-                </div> 
+                </div>
             </div> 
         </div>
     </div>
@@ -112,7 +112,7 @@ require('../vendor/autoload.php');
         integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4="
         crossorigin="anonymous">
     </script>
-    <script src="https://unpkg.com/vue@next"></script>
+    <script src="https://unpkg.com/vue@3.0.10"></script>
     <script src="dist/main.js"></script>
 </body>
 </html>
