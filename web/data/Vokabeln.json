@@ -40,6 +40,11 @@
                 "Variationen": ["奉る"],
                 "Bedeutung": "trinken, essen (honorativ)",
                 "Flexion": "他ラ四"
+            },
+            "1": {
+                "Variationen": ["奉る"],
+                "Bedeutung": "drückt bescheidenheit aus ((お…申し上げる)",
+                "Flexion": "補動ラ四"
             }
         },
         "ふもと": {
@@ -458,6 +463,431 @@
                 "Variationen": ["経"],
                 "Bedeutung": "Zeit verstreicht, Zeit vergeht",
                 "Flexion": "自ハ下二"
+            }
+        },
+        "やがて": {
+            "0": {
+                "Variationen": ["軈て"],
+                "Bedeutung": "gleich, auf der Stelle, direkt danach",
+                "Flexion": "副"
+            }
+        },
+        "あもかげ": {
+            "0": {
+                "Variationen": ["面影"],
+                "Bedeutung": "Miene, Gesicht, Gesichtsausdruck",
+                "Flexion": "名"
+            }
+        },
+        "おしはかる": {
+            "0": {
+                "Variationen": ["推し量る"],
+                "Bedeutung": "ermuten, mutmaßen, annehmen, schätzen, erwarten",
+                "Flexion": "他ラ四"
+            }
+        },
+        "かねて": {
+            "0": {
+                "Variationen": ["予ねて"],
+                "Bedeutung": "vorher, früher, im Voraus",
+                "Flexion": "副"
+            }
+        },
+        "やう": {
+            "0": {
+                "Variationen": ["ヨウ", "様"],
+                "Bedeutung": "Zustand, Lage, Situation",
+                "Flexion": "名"
+            }
+        },
+        "むね": {
+            "0": {
+                "Variationen": ["宗"],
+                "Bedeutung": "die zentrale Rolle spielen, zur Hauptsache machen, vor allem mit ... befasst sein",
+                "Flexion": "名"
+            }
+        },
+        "いかなる": {
+            "0": {
+                "Variationen": ["如何なる"],
+                "Bedeutung": "was, welche Art von ...",
+                "Flexion": "形容動詞「如何なり」の連体形"
+            }
+        },
+        "ありがたし": {
+            "0": {
+                "Variationen": ["有り難し"],
+                "Bedeutung": "kaum, selten, so gut wie nie",
+                "Flexion": "形ク"
+            }
+        },
+        "しうと": {
+            "0": {
+                "Variationen": ["ショウト", "舅"],
+                "Bedeutung": "Vater des Ehemanns oder der Ehefrau",
+                "Flexion": "名"
+            }
+        },
+        "むこ": {
+            "0": {
+                "Variationen": ["婿", "聟", "壻"],
+                "Bedeutung": "Ehemann einer Tochter, Mann als Partner in einer Ehe",
+                "Flexion": ""
+            }
+        },
+        "ほむ": {
+            "0": {
+                "Variationen": ["誉む", "褒む"],
+                "Bedeutung": "loben, preisen",
+                "Flexion": "他マ下二"
+            }
+        },
+        "しうとめ": {
+            "0": {
+                "Variationen": ["シユウトメ", "姑"],
+                "Bedeutung": "Mutter des Mannes oder der Frau",
+                "Flexion": "名"
+            }
+        },
+        "おもふ": {
+            "0": {
+                "Variationen": ["オモウ", "思ふ"],
+                "Bedeutung": "lieben",
+                "Flexion": "他ハ四"
+            }
+        },
+        "よめ": {
+            "0": {
+                "Variationen": ["嫁"],
+                "Bedeutung": "Schwiegertochter",
+                "Flexion": ""
+            }
+        },
+        "きみ": {
+            "0": {
+                "Variationen": ["君"],
+                "Bedeutung": "(honorativer suffix)",
+                "Flexion": "接尾"
+            }
+        },
+        "にくし": {
+            "0": {
+                "Variationen": ["憎し"],
+                "Bedeutung": "missfallen, nicht gefallen",
+                "Flexion": "形ク"
+            }
+        },
+        "おほみや": {
+            "0": {
+                "Variationen": ["オオミヤ", "大宮"],
+                "Bedeutung": "(ehrentitel) Kaiserwitwe, Ehefrau des letzten / vorletzten Kaisers",
+                "Flexion": "名"
+            }
+        },
+        "まゐらす": {
+            "0": {
+                "Variationen": ["マイラス", "参らす"],
+                "Bedeutung": "(drückt bescheidenheit aus)",
+                "Flexion": "補動サ下二"
+            }
+        },
+        "ごしょ": {
+            "0": {
+                "Variationen": ["御所"],
+                "Bedeutung": "Der Sitz / die Residenz des abgedankten Tennō / der Kaiserinnengroßmutter, Kaiserinmutter und Kaiserin / des kaiserlichen Prinzen",
+                "Flexion": "名"
+            }
+        },
+        "にょうばう": {
+            "0": {
+                "Variationen": ["ニョウボウ", "女房"],
+                "Bedeutung": "Hofdame, der ein Zimmer am Kaiserhof zugestanden wurde",
+                "Flexion": "名"
+            }
+        },
+        "そで": {
+            "0": {
+                "Variationen": ["袖"],
+                "Bedeutung": "Ärmel",
+                "Flexion": "名"
+            }
+        },
+        "ぬらす": {
+            "0": {
+                "Variationen": ["濡らす"],
+                "Bedeutung": "Mit Wasser oder ähnlichem befeuchten",
+                "Flexion": ""
+            }
+        },
+        "さるほどに": {
+            "0": {
+                "Variationen": ["然る程に"],
+                "Bedeutung": "(Übernimmt den vorherigen Satz und setzt ihn fort) in der Zwischenzeit, umgehend, in Kürze",
+                "Flexion": "接"
+            }
+        },
+        "たいしゃう": {
+            "0": {
+                "Variationen": ["タイショウ", "大将"],
+                "Bedeutung": "General der kaiserlichen Garde, der den Kaiser eskortiert und den Palast bewacht (es gibt den linken und den rechten General)",
+                "Flexion": "名"
+            }
+        },
+        "いとま": {
+            "0": {
+                "Variationen": ["暇"],
+                "Bedeutung": "Abschied, Scheidung, Trennung (durch den Tod)",
+                "Flexion": "名"
+            }
+        },
+        "まうす": {
+            "0": {
+                "Variationen": ["モウス", "申す"],
+                "Bedeutung": "(bescheiden) sagen, erzählen",
+                "Flexion": "他サ四"
+            }
+        },
+        "ふくはら": {
+            "0": {
+                "Variationen": ["福原"],
+                "Bedeutung": "(Stadtn.) Fukuhara im Bezirk Hyogo in Kobe",
+                "Flexion": "地名"
+            }
+        },
+        "しもべ": {
+            "0": {
+                "Variationen": ["下部"],
+                "Bedeutung": "Jemand, der für verschiedene Dinge eingesetzt wird (Diener, Knecht)",
+                "Flexion": "名"
+            }
+        },
+        "こころす": {
+            "0": {
+                "Variationen": ["心す"],
+                "Bedeutung": "vorsichtig / Behutsam / Aufmerksam sein",
+                "Flexion": "自サ変"
+            }
+        },
+        "さらに": {
+            "0": {
+                "Variationen": ["更に"],
+                "Bedeutung": "nie, ganz und gar nicht, nichtmal ein bisschen",
+                "Flexion": "副"
+            }
+        },
+        "きょう": {
+            "0": {
+                "Variationen": ["興"],
+                "Bedeutung": "interessante / lustige Dinge, Interesse",
+                "Flexion": "名"
+            }
+        },
+        "きこゆ": {
+            "0": {
+                "Variationen": ["聞こゆ"],
+                "Bedeutung": "sich einen Namen machen",
+                "Flexion": ""
+            }
+        },
+        "たまふ": {
+            "0": {
+                "Variationen": ["タマ（モ）ウ", "賜ふ", "給ふ"],
+                "Bedeutung": "respekt erweisen (尊敬語、お…になる、…なさる、て（で）くださる）",
+                "Flexion": "補動ハ四"
+            }
+        },
+        "きそよしなか": {
+            "0": {
+                "Variationen": ["木曾義仲"],
+                "Bedeutung": "(Pers. Name) Militärkommandant der späten Heian-zeit, Cousin von Minamoto no Yoritomo",
+                "Flexion": ""
+            }
+        },
+        "みうら": {
+            "0": {
+                "Variationen": ["三浦"],
+                "Bedeutung": "(Fam. Name)",
+                "Flexion": ""
+            }
+        },
+        "いしだのじろうためひさ": {
+            "0": {
+                "Variationen": ["石田次郎為久"],
+                "Bedeutung": "(Pers. Name)",
+                "Flexion": ""
+            }
+        },
+        "うつ": {
+            "0": {
+                "Variationen": ["討つ"],
+                "Bedeutung": "erschießen, totschießen",
+                "Flexion": "他タ四"
+            },
+            "1": {
+                "Variationen": ["打つ"],
+                "Bedeutung": "wettkämpfen, spielen, aufführen, durchführen",
+                "Flexion": "他タ四"
+            }
+        },
+        "きし": {
+            "0": {
+                "Variationen": ["岸"],
+                "Bedeutung": "Ufer, Flussufer",
+                "Flexion": ""
+            }
+        },
+        "やまだのじろう": {
+            "0": {
+                "Variationen": ["山田次郎"],
+                "Bedeutung": "(Pers. Name)",
+                "Flexion": ""
+            }
+        },
+        "はなつ": {
+            "0": {
+                "Variationen": ["放つ"],
+                "Bedeutung": "Abschießen (eines Pfeils o.ä.)",
+                "Flexion": "他タ四"
+            }
+        },
+        "はたけやま": {
+            "0": {
+                "Variationen": ["畠山"],
+                "Bedeutung": "(Fam. Name)",
+                "Flexion": ""
+            }
+        },
+        "ひたい": {
+            "0": {
+                "Variationen": ["額"],
+                "Bedeutung": "Stirn",
+                "Flexion": ""
+            }
+        },
+        "のぶか": {
+            "0": {
+                "Variationen": ["箆深"],
+                "Bedeutung": "Der Pfeil durchbohrt bis zum Pfeilschaft tief",
+                "Flexion": "形動ナリ"
+            }
+        },
+        "ゆんづゑ": {
+            "0": {
+                "Variationen": ["ユンヅエ", "弓伺"],
+                "Bedeutung": "Verwendung eines Bogens als Gehstock",
+                "Flexion": "名"
+            }
+        },
+        "にはか": {
+            "0": {
+                "Variationen": ["ニワカ", "俄"],
+                "Bedeutung": "plötzlich, unerwartet, sofortig",
+                "Flexion": "形動ナリ"
+            }
+        },
+        "ただ": {
+            "0": {
+                "Variationen": ["唯", "只"],
+                "Bedeutung": "(drückt eine Begrenzung aus) nur, bloß",
+                "Flexion": "副"
+            }
+        },
+        "とくしつ": {
+            "0": {
+                "Variationen": ["得失", "とくしち"],
+                "Bedeutung": "Erfolg und/oder Misserfolg, Glückssache",
+                "Flexion": "名"
+            }
+        },
+        "さだむ": {
+            "0": {
+                "Variationen": ["定む"],
+                "Bedeutung": "entscheiden, bestimmen, festlegen",
+                "Flexion": "他マ下二"
+            }
+        },
+        "は": {
+            "0": {
+                "Variationen": ["羽"],
+                "Bedeutung": "Flügel, Feder",
+                "Flexion": "他マ下二"
+            }
+        },
+        "りゅう": {
+            "0": {
+                "Variationen": ["竜", "龍"],
+                "Bedeutung": "Drache",
+                "Flexion": ""
+            }
+        },
+        "うって": {
+            "0": {
+                "Variationen": ["討手"],
+                "Bedeutung": "Eine Person, die einen Feind oder Banditen besiegt oder gefangen nimmt, Ein Verfolger",
+                "Flexion": "名"
+            }
+        },
+        "つかはす": {
+            "0": {
+                "Variationen": ["遣はす", "ツカワス"],
+                "Bedeutung": "(mit fehlendem respekt) entsenden, delegieren",
+                "Flexion": "他サ四"
+            }
+        },
+        "はぬ": {
+            "0": {
+                "Variationen": ["跳ぬ", "撥ぬ", "刎ぬ"],
+                "Bedeutung": "(beispielsweise den Kopf) abschneiten, abschlagen",
+                "Flexion": "自ナ下二"
+            }
+        },
+        "はか": {
+            "0": {
+                "Variationen": ["墓"],
+                "Bedeutung": "Grab",
+                "Flexion": ""
+            }
+        },
+        "ふゆがれ": {
+            "0": {
+                "Variationen": ["冬枯れ"],
+                "Bedeutung": "Das Verwelken von Pflanzen und Bäumen im Winter / Eine einsame Winterszene, in der alles Verwelkt ist",
+                "Flexion": "名"
+            }
+        },
+        "けしき": {
+            "0": {
+                "Variationen": ["気色"],
+                "Bedeutung": "Zustand (der Natur)",
+                "Flexion": "名"
+            }
+        },
+        "をさをさ": {
+            "0": {
+                "Variationen": ["オサオサ"],
+                "Bedeutung": "(mit Verneinung =) gar nicht, selten (ohne Verneinung =) viel, oft",
+                "Flexion": "副"
+            }
+        },
+        "おとる": {
+            "0": {
+                "Variationen": ["劣る", "損る"],
+                "Bedeutung": "anderen im Rang, Wert, Grad unterlegen sein, den kürzeren Ziehen",
+                "Flexion": "自ラ四"
+            }
+        },
+        "わがみ": {
+            "0": {
+                "Variationen": ["我が身"],
+                "Bedeutung": "(Selbstbezeichnung) Ich",
+                "Flexion": "代"
+            }
+        },
+        "かたきのてにかかる": {
+            "0": {
+                "Variationen": ["敵の手に掛かる"],
+                "Bedeutung": "vom Feind getötet werden",
+                "Flexion": ""
             }
         }
     }
