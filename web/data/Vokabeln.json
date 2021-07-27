@@ -87,6 +87,11 @@
                 "Variationen": ["白栲","白妙"],
                 "Bedeutung": "Weis (Farbe)",
                 "Flexion": "名"
+            },
+            "1": {
+                "Variationen": ["白栲","白妙"],
+                "Bedeutung": "Ein weißes Tuch, gewebt aus Fasern des Kouzo-Baumes",
+                "Flexion": "名"
             }
         },
         "ふじのたかね": {
@@ -344,6 +349,11 @@
                 "Variationen": ["問ふ","訪ふ"],
                 "Bedeutung": "fragen, befragen",
                 "Flexion": "自ヤ下二"
+            },
+            "1": {
+                "Variationen": ["トウ","問ふ","訪ふ"],
+                "Bedeutung": "fragen, befragen",
+                "Flexion": "他ハ四"
             }
         },
         "きよし": {
@@ -887,6 +897,347 @@
             "0": {
                 "Variationen": ["敵の手に掛かる"],
                 "Bedeutung": "vom Feind getötet werden",
+                "Flexion": ""
+            }
+        },
+        "こま": {
+            "0": {
+                "Variationen": ["駒"],
+                "Bedeutung": "Pferd",
+                "Flexion": "名"
+            }
+        },
+        "なむ": {
+            "0": {
+                "Variationen": ["並む"],
+                "Bedeutung": "aufreihen, nebeneinander stellen",
+                "Flexion": "他マ下二"
+            }
+        },
+        "いざ": {
+            "0": {
+                "Variationen": ["感"],
+                "Bedeutung": "einladen",
+                "Flexion": ""
+            }
+        },
+        "ふるさと": {
+            "0": {
+                "Variationen": ["古里", "故里", "故郷"],
+                "Bedeutung": "Geburtsort, Heimat",
+                "Flexion": ""
+            }
+        },
+        "のみ": {
+            "0": {
+                "Variationen": ["古里", "故里", "故郷"],
+                "Bedeutung": "... wie Schnee, als ob es Schnee währe",
+                "Flexion": "副助"
+            }
+        },
+        "しらつゆ": {
+            "0": {
+                "Variationen": ["白露"],
+                "Bedeutung": "(weiß schimmernder) Tau",
+                "Flexion": "名"
+            }
+        },
+        "いかに": {
+            "0": {
+                "Variationen": ["如何に"],
+                "Bedeutung": "wie, auf welche Weise",
+                "Flexion": "副"
+            }
+        },
+        "ちぢ": {
+            "0": {
+                "Variationen": ["千ぢ", "千千"],
+                "Bedeutung": "Viel sein, Einige",
+                "Flexion": "名・形動ナリ"
+            }
+        },
+        "そむ": {
+            "0": {
+                "Variationen": ["染む"],
+                "Bedeutung": "färben, einfärben",
+                "Flexion": "他マ下二"
+            }
+        },
+        "やまもと": {
+            "0": {
+                "Variationen": ["山本"],
+                "Bedeutung": "Fuß des Berges",
+                "Flexion": "名"
+            }
+        },
+        "かすむ": {
+            "0": {
+                "Variationen": ["霞む"],
+                "Bedeutung": "diesig sein, nebelig sein",
+                "Flexion": "自マ四"
+            }
+        },
+        "みなせがは": {
+            "0": {
+                "Variationen": ["ミナセガワ", "水無瀬川"],
+                "Bedeutung": "(Flussname) fließt durch das Gebiet Mishima-gun, Osaka. Südlich des Flusses befand sich der freistehende Palast des Kaisers Gotoba.",
+                "Flexion": "地名"
+            }
+        },
+        "なに": {
+            "0": {
+                "Variationen": ["何"],
+                "Bedeutung": "(Weist auf eine Frage oder Antiphrase hin) warum, weshalb",
+                "Flexion": "副"
+            }
+        },
+        "ほす": {
+            "0": {
+                "Variationen": ["干す", "乾す"],
+                "Bedeutung": "trocknen",
+                "Flexion": ""
+            }
+        },
+        "あまのかぐやま": {
+            "0": {
+                "Variationen": ["天の香具山"],
+                "Bedeutung": "(Bergname) Ein Berg im östlichen Teil der heutigen Stadt Kashihara, Nara. Einer der drei Berge von Yamato. Der Name kommt von der Legende, dass der Berg vom Himmel fiel.",
+                "Flexion": "地名"
+            }
+        },
+        "たえて": {
+            "0": {
+                "Variationen": ["絶えて"],
+                "Bedeutung": "überhaupt nicht, ganz und gar nicht",
+                "Flexion": "副"
+            }
+        },
+        "のどけし": {
+            "0": {
+                "Variationen": ["長閑けし"],
+                "Bedeutung": "ruhig aufgrund des ruhigen Wetters sein, heiter sein",
+                "Flexion": "形ク"
+            }
+        },
+        "せこ": {
+            "0": {
+                "Variationen": ["兄子", "夫子", "背子"],
+                "Bedeutung": "Ein Begriff, der von Frauen für ihre Ehemänner / Liebhaber genutzt wird",
+                "Flexion": "名"
+            }
+        },
+        "いくばく": {
+            "0": {
+                "Variationen": ["幾許"],
+                "Bedeutung": "(Fragewort) wie viel",
+                "Flexion": "副"
+            }
+        },
+        "かすがの": {
+            "0": {
+                "Variationen": ["春日野"],
+                "Bedeutung": "(Gebietsname) Ein Gebiet der Hochebene am Fuße des Berges Kasuga, in der heutigen Stadt Nara. In der Nähe des Nara-Parks.",
+                "Flexion": "地名"
+            }
+        },
+        "しぐれ": {
+            "0": {
+                "Variationen": ["時雨"],
+                "Bedeutung": "leichter Regen im späten Herbst, Sprühregen im Herbst",
+                "Flexion": ""
+            }
+        },
+        "あす": {
+            "0": {
+                "Variationen": ["明日"],
+                "Bedeutung": "morgen, der nächste Tag",
+                "Flexion": ""
+            }
+        },
+        "もみぢ": {
+            "0": {
+                "Variationen": ["モミジ", "紅葉", "黄葉"],
+                "Bedeutung": "Die Färbung der Blätter im Herbst zu Rot und Blau bzw. diese Blätter, Herbstfärbung",
+                "Flexion": "名"
+            }
+        },
+        "かざす": {
+            "0": {
+                "Variationen": ["挿頭す"],
+                "Bedeutung": "dekorieren, schmücken",
+                "Flexion": "他サ四"
+            }
+        },
+        "たかまとやま": {
+            "0": {
+                "Variationen": ["高円山"],
+                "Bedeutung": "(Bergname) Ein Berg, der sich südöstlich des Kasuga-Berges im östlichen Teil der heutigen Stadt Nara fortsetzt",
+                "Flexion": "地名"
+            }
+        },
+        "ほど": {
+            "0": {
+                "Variationen": ["程"],
+                "Bedeutung": "(Hauptsächlich als Zeitangabe) Zeit, Stunde, zwischen",
+                "Flexion": "地名"
+            }
+        },
+        "ちご": {
+            "0": {
+                "Variationen": ["児", "稚児"],
+                "Bedeutung": "Säugling, Baby, Kleinkind, Kind",
+                "Flexion": "名"
+            }
+        },
+        "きそのよしなか": {
+            "0": {
+                "Variationen": ["木曽義仲"],
+                "Bedeutung": "Minamoto no Yoshinaka (1154-1184)",
+                "Flexion": "名"
+            }
+        },
+        "いかにもなる": {
+            "0": {
+                "Variationen": ["如何にも成る"],
+                "Bedeutung": "(Euphemismus) sterben",
+                "Flexion": ""
+            }
+        },
+        "のがる": {
+            "0": {
+                "Variationen": ["逃る", "伿る"],
+                "Bedeutung": "(vor Gefahren oder Feindschaft) fliehen, sich zurückziehen",
+                "Flexion": "自ラ下二"
+            }
+        },
+        "なむぢ": {
+            "0": {
+                "Variationen": ["ナンジ", "汝"],
+                "Bedeutung": "(despektierlich) du",
+                "Flexion": "代"
+            }
+        },
+        "うちじに": {
+            "0": {
+                "Variationen": ["討死"],
+                "Bedeutung": "Tod auf dem Schlachtfeld, Tod im Kampf",
+                "Flexion": ""
+            }
+        },
+        "ほうし": {
+            "0": {
+                "Variationen": ["法師"],
+                "Bedeutung": " (Buddh.) (schriftspr.) buddhistischer Priester, buddhistischer Mönch",
+                "Flexion": ""
+            }
+        },
+        "ばかり": {
+            "0": {
+                "Variationen": [""],
+                "Bedeutung": "(mit verneinung) nicht so sehr wie ..., ... ist nicht zum selben grad ... wie etwas anderes",
+                "Flexion": "副助"
+            }
+        },
+        "うらやまし": {
+            "0": {
+                "Variationen": ["羨まし"],
+                "Bedeutung": "beneidenswert, zu beneiden sein",
+                "Flexion": "形シク"
+            }
+        },
+        "すごろく": {
+            "0": {
+                "Variationen": ["双六"],
+                "Bedeutung": "Sugoroku (ein Brettspiel mit Ähnlichkeit zu Backgammon)",
+                "Flexion": ""
+            }
+        },
+        "おごる": {
+            "0": {
+                "Variationen": ["驕る"],
+                "Bedeutung": "überheblich / arrogant werden",
+                "Flexion": "自ラ四"
+            }
+        },
+        "ひさし": {
+            "0": {
+                "Variationen": ["久し"],
+                "Bedeutung": "für lange Zeit (Ein Zustand, der eine lange Zeit anhält)",
+                "Flexion": "形シク"
+            }
+        },
+        "ひわだ": {
+            "0": {
+                "Variationen": ["檜皮", " 桧皮"],
+                "Bedeutung": "Rinde einer japanischen Zypresse",
+                "Flexion": ""
+            }
+        },
+        "ふきいた": {
+            "0": {
+                "Variationen": ["葺(き)板"],
+                "Bedeutung": "Schindel",
+                "Flexion": ""
+            }
+        },
+        "たぐひ": {
+            "0": {
+                "Variationen": ["タグイ", "類", "比"],
+                "Bedeutung": "gleichwertig, ebenbürtig, gleichartig",
+                "Flexion": "名"
+            }
+        },
+        "みだる": {
+            "0": {
+                "Variationen": ["乱る"],
+                "Bedeutung": "sich ineinander mischen, zerfallen, in Stücke gehen",
+                "Flexion": "自ラ下二"
+            }
+        },
+        "ちり": {
+            "0": {
+                "Variationen": ["塵"],
+                "Bedeutung": "Staub, Schmutz",
+                "Flexion": ""
+            }
+        },
+        "けぶり": {
+            "0": {
+                "Variationen": ["煙", "烟"],
+                "Bedeutung": "Rauch, Qualm",
+                "Flexion": ""
+            }
+        },
+        "せんだつ": {
+            "0": {
+                "Variationen": ["先達"],
+                "Bedeutung": "Leiter, Führer",
+                "Flexion": "名"
+            }
+        },
+        "あらまほし": {
+            "0": {
+                "Variationen": [""],
+                "Bedeutung": "(wie etw./jm.) sein wollen",
+                "Flexion": ""
+            },
+            "1": {
+                "Variationen": [""],
+                "Bedeutung": "(das sein in einem Zustand) ist wünschenswert / ideal",
+                "Flexion": "形シク"
+            }
+        },
+        "かたき": {
+            "0": {
+                "Variationen": ["敵"],
+                "Bedeutung": "Feind, Gegner",
+                "Flexion": ""
+            }
+        },
+        "あくしょ": {
+            "0": {
+                "Variationen": ["悪所"],
+                "Bedeutung": "gefährlicher Weg, Gefahrenstelle, gefährlicher Ort",
                 "Flexion": ""
             }
         }
