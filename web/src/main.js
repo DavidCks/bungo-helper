@@ -111,8 +111,8 @@ $('#search').on('input',(e) => {
         searches.forEach((str) => {
             if(str !== "　" && str !== " " && str !== "") {
                 $('[id*=' + str + ']').each(function() {
-                    if($(this).attr("class") === "katsuyou-lesung") {
-                        //the original div that was hidden
+                    if($(this).attr("class") === "katsuyou-lesung" || $(this).attr("class") === "variation") {
+                        //the original div that was hidden in the verbal suffixes and in vocabulary
                         var e = $(this).parent().parent().parent().parent();
                         e.css("display", "unset");
                     } else {

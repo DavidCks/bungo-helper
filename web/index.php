@@ -95,7 +95,9 @@ require('../vendor/autoload.php');
                 <div class="card-content-bar">
                     <div class="content-bar-first-three first-item">{{ entity.entry }}</div>
                     <div class="content-bar-first-three second-item">
-                        <span v-for="kanji in entity.obj.Variationen"> {{ kanji }} <br></span>
+                        <span v-for="kanji in entity.obj.Variationen"> 
+                            <span v-bind:id="kanji" class="variation">{{ kanji }}</span><br>
+                        </span>
                     </div>
                     <div class="content-bar-first-three">
                         <span> {{ entity.obj.Flexion }} </span>
