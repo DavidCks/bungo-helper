@@ -144,7 +144,7 @@
         "いみじ": {
             "0": {
                 "Variationen": [],
-                "Bedeutung": "ungewöhnlich, außerordentlich",
+                "Bedeutung": "ungewöhnlich, außerordentlich | wunderbar, ausgezeichnet",
                 "Flexion": "形シク"
             }
         },
@@ -1238,6 +1238,27 @@
             "0": {
                 "Variationen": ["悪所"],
                 "Bedeutung": "gefährlicher Weg, Gefahrenstelle, gefährlicher Ort",
+                "Flexion": ""
+            }
+        },
+        "すぐす": {
+            "0": {
+                "Variationen": ["過ぐす"],
+                "Bedeutung": "durchleben, vergehen",
+                "Flexion": ""
+            }
+        },
+        "みさと": {
+            "0": {
+                "Variationen": ["京"],
+                "Bedeutung": "Stadt",
+                "Flexion": ""
+            }
+        },
+        "みやこ": {
+            "0": {
+                "Variationen": ["都"],
+                "Bedeutung": "Hauptstadt, Kyoto",
                 "Flexion": ""
             }
         }
