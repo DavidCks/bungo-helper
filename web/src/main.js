@@ -116,8 +116,7 @@ $('#search').on('input',(e) => {
                         var e = $(this).parent().parent().parent().parent();
                         e.css("display", "unset");
                     } else {
-                        if(str === $(this).attr('id'))
-                            $(this).css("display", "unset");
+                        $(this).css("display", "unset");
                     }
                 });
             }
