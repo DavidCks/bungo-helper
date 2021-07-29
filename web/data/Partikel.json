@@ -151,7 +151,9 @@
             "Anschluss": ["体言", "連体形"],
             "体言・連体形": {
                 "Bedeutung": [
-                    ["Emphase","","強意"]
+                    ["Postpositionelle Korrelation (gerade weil ...)","","強意"],
+                    ["Emphase","","強意"],
+                    ["(Anmerkung:","Verb　oder Adjektiv danach steht immer in der 已然形)","注"]
                 ]
             }
         }
@@ -161,13 +163,21 @@
             "Anschluss": ["已然形", "未然形"],
             "已然形": {
                 "Bedeutung": [
-                    ["Kopulative Satzverbindung einer unbedingten Bedingung", "と・ところ・～から・～ので・といつも", "順接確定条件"],
-                    ["Ursachenbedingung", "ので", "原因条件"]
+                    ["Kopulative Satzverbindung einer unbedingten Bedingung (als ..., immer wenn ...) L. 3", "と・ところ・～から・～ので・といつも", "順接確定条件"],
+                    ["Ursachenbedingung - L. 3", "ので", "原因条件"]
                 ]
             },
             "未然形": {
                 "Bedeutung": [
-                    ["Kopulative Satzverbindung einer hypothetischen Annahme", "もし…ならば", "順接仮定条件"]
+                    ["Kopulative Satzverbindung einer hypothetischen Annahme - L. 3", "もし…ならば", "順接仮定条件"]
+                ]
+            }
+        },
+        "と": {
+            "Anschluss": ["終止形", "形容詞の連用形"],
+            "已然形": {
+                "Bedeutung": [
+                    ["Entgegengesetzte Satzverbindung einer <b>hypothetischen</b> Bedingung (selbst wenn ..., auch wenn ...) - L. 3","もし…ても","逆接確定条件"]
                 ]
             }
         },
@@ -175,7 +185,7 @@
             "Anschluss": ["終止形", "形容詞の連用形"],
             "已然形": {
                 "Bedeutung": [
-                    ["Entgegengesetzte Satzverbindung einer hypothetischen Bedingung","もし…ても","逆接確定条件"]
+                    ["Entgegengesetzte Satzverbindung einer <b>hypothetischen</b> Bedingung (selbst wenn ..., auch wenn ...) - L. 3","もし…ても","逆接確定条件"]
                 ]
             }
         },
@@ -183,7 +193,7 @@
             "Anschluss": ["已然形"],
             "已然形": {
                 "Bedeutung": [
-                    ["Entgegengesetzte Satzverbindung einer unbedingten Bedingung","けれども","逆接確定条件"]
+                    ["Entgegengesetzte Satzverbindung einer <b>unbedingten</b> Bedingung (obwohl ..., obgleich ...) - L. 3","けれども","逆接確定条件"]
                 ]
             }
         },
@@ -191,7 +201,7 @@
             "Anschluss": ["已然形"],
             "已然形": {
                 "Bedeutung": [
-                    ["Entgegengesetzte Satzverbindung einer unbedingten Bedingung","けれども","逆接確定条件"]
+                    ["Entgegengesetzte Satzverbindung einer unbedingten Bedingung (obwohl ..., obgleich ...) - L. 3","けれども","逆接確定条件"]
                 ]
             }
         },

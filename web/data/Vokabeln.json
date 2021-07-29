@@ -625,7 +625,7 @@
         "ぬらす": {
             "0": {
                 "Variationen": ["濡らす"],
-                "Bedeutung": "Mit Wasser oder ähnlichem befeuchten",
+                "Bedeutung": "Mit Wasser oder ähnlichem (auch Tränen) befeuchten",
                 "Flexion": ""
             }
         },
@@ -783,7 +783,7 @@
         },
         "ゆんづゑ": {
             "0": {
-                "Variationen": ["ユンヅエ", "弓伺"],
+                "Variationen": ["ユンヅエ", "弓杖"],
                 "Bedeutung": "Verwendung eines Bogens als Gehstock",
                 "Flexion": "名"
             }
@@ -896,7 +896,7 @@
         "かたきのてにかかる": {
             "0": {
                 "Variationen": ["敵の手に掛かる"],
-                "Bedeutung": "vom Feind getötet werden",
+                "Bedeutung": "vom Feind getötet werden, dem Feind in die Hände fallen",
                 "Flexion": ""
             }
         },
@@ -1259,6 +1259,27 @@
             "0": {
                 "Variationen": ["都"],
                 "Bedeutung": "Hauptstadt, Kyoto",
+                "Flexion": ""
+            }
+        },
+        "いとまもうす": {
+            "0": {
+                "Variationen": ["暇申す"],
+                "Bedeutung": "sich verabschieden",
+                "Flexion": ""
+            }
+        },
+        "むか": {
+            "0": {
+                "Variationen": ["向か"],
+                "Bedeutung": "andere Seite",
+                "Flexion": ""
+            }
+        },
+        "よわう": {
+            "0": {
+                "Variationen": ["弱う"],
+                "Bedeutung": "Schwach werden",
                 "Flexion": ""
             }
         }

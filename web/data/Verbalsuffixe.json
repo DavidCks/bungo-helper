@@ -11,10 +11,10 @@
             },
             "活用": "下二段型",
             "Bedeutung": [
-                ["Selbsttätig, Spontan, aus eigenem Antrieb","自然と～れる","自発"],
-                ["Passiv","～れる。～られる","受身"],
-                ["Möglichkeit","～できる","可能"],
-                ["Achtung, Ehrerbietung","お～になる。なさる","尊敬"]
+                ["Möglichkeit","～できる - L. 6","可能"],
+                ["Selbsttätig, Spontan, aus eigenem Antrieb - L. 6","自然と～れる","自発"],
+                ["Passiv","～れる。～られる - L. 6","受身"],
+                ["Achtung, Ehrerbietung - L. 6","お～になる。なさる","尊敬"]
             ]
         },
         "らる": {
@@ -28,9 +28,9 @@
             },
             "活用": "下二段型",
             "Bedeutung": [
-                ["Selbsttätig, Spontan, aus eigenem Antrieb","自然と～れる","自発"],
-                ["Passiv","～れる。～られる","受身"],
-                ["Möglichkeit","～できる","可能"],
+                ["Möglichkeit","～できる - L. 6","可能"],
+                ["Selbsttätig, Spontan, aus eigenem Antrieb - L. 6","自然と～れる","自発"],
+                ["Passiv","～れる。～られる - L. 6","受身"],
                 ["Achtung, Ehrerbietung","お～になる。なさる","尊敬"]
             ]
         },
@@ -45,8 +45,9 @@
             },
             "活用": "下二段型",
             "Bedeutung": [
-                ["Kausativ, Beschäftigung","～させる","使役"],
-                ["Achtung, Ehrerbietung","お～になる。～なさる","尊敬"]
+                ["Kausativ, Beschäftigung (... machen lassen)  - L. 7","～させる","使役"],
+                ["Achtung, Ehrerbietung - L. 7","お～になる。～なさる","尊敬"],
+                ["Passiv + Arroganz - L. 7","上手に～させる","受身"]
             ]
         },
         "さす": {
@@ -60,8 +61,9 @@
             },
             "活用": "下二段型",
             "Bedeutung": [
-                ["Kausativ, Beschäftigung","～させる","使役"],
-                ["Achtung, Ehrerbietung","お～になる。～なさる","尊敬"]
+                ["Kausativ, Beschäftigung (... machen lassen) - L. 7","～させる","使役"],
+                ["Achtung, Ehrerbietung - L. 7","お～になる。～なさる","尊敬"],
+                ["Passiv + Arroganz - L. 7","上手に～させる","受身"]
             ]
         },
         "しむ": {
@@ -75,8 +77,9 @@
             },
             "活用": "下二段型",
             "Bedeutung": [
-                ["Kausativ, Beschäftigung","～させる","使役"],
-                ["Achtung, Ehrerbietung","お～になる。～なさる","尊敬"]
+                ["Kausativ, Beschäftigung (... machen lassen) - L. 7","～させる","使役"],
+                ["Achtung, Ehrerbietung - L. 7","お～になる。～なさる","尊敬"],
+                ["Passiv + Arroganz - L. 7","上手に～させる","受身"]
             ]
         },
         "ず": {
@@ -90,7 +93,7 @@
             },
             "活用": "特殊型",
             "Bedeutung": [
-                ["Verneinung","～ない","打消"]
+                ["Verneinung - L. 4","～ない","打消"]
             ]
         },
         "じ": {
@@ -104,8 +107,8 @@
             },
             "活用": "無変化型",
             "Bedeutung": [
-                ["Verneinte Vermutung","～ないだろう","打消推量"],
-                ["Verneinte Absichtserklärung","～まい。～ないつもりだ","打消"]
+                ["Verneinte Vermutung - L. 9","～ないだろう","打消推量"],
+                ["Verneinte Absichtserklärung - L. 9","～まい。～ないつもりだ","打消意志"]
             ]
         },
         "ん_む": {
@@ -119,8 +122,8 @@
             },
             "活用": "四段型",
             "Bedeutung": [
-                ["Vermutung","～だろう","推量"],
-                ["Absichtserklärung","～よう","意志"],
+                ["Vermutung - L. 9","～だろう","推量"],
+                ["Absichtserklärung - L. 9","～よう","意志"],
                 ["Umschreibung, Euphemismus","～ような","婉曲"],
                 ["Angemessenheit, Ratschlag, Aufforderung","～のがよい。～しませんか","適当・勧誘"]
             ]
@@ -151,12 +154,13 @@
             },
             "活用": "特殊型",
             "Bedeutung": [
-                ["Unwahre Annahme (Wenn ... gewesen wäre, dann hätte ...)","もし～たならば、～ただろうに","反実仮想"],
+                ["Unwahre Annahme (Wenn ... so wäre, dann ...) - L. 10","もし～ならば、～だろうに","反実仮想"],
+                ["Unwarscheinliche Hoffnung (Ich wünschte, ... währe, dann ...) - L. 10","もし～ならば","不可能な希望"],
                 ["Zögernde Absichtserklärung (Lass uns ..., ok?)","～しょうかしから","ためらいの意志"],
                 ["Hypothetischer Wunsch in der Vergangenheit (ich wünschte, es wäre ... gewesen)","～だったならばよかったのに","願望"]
             ]
         },
-        "まほし": {
+        "まほし_ましき": {
             "Formen": {
                 "未然形": "まほしから・（まほしく）",
                 "連用形": "まほしかり・（まほしく）",
@@ -167,7 +171,7 @@
             },
             "活用": "特殊型",
             "Bedeutung": [
-                ["Wunsch, Hoffnung","～たい","希望"]
+                ["Wunsch, Hoffnung - L.11","～たい","希望"]
             ]
         },
         "Anmerkung": ""
@@ -184,7 +188,7 @@
             },
             "活用": "特殊型",
             "Bedeutung": [
-                ["Selbst erlebte Vergangenheit","～た","自分が体験した過去"]
+                ["Selbst erlebte Vergangenheit - L. 4","～た","自分が体験した過去"]
             ]
         },
         "けり": {
@@ -198,8 +202,8 @@
             },
             "活用": "ラ変型",
             "Bedeutung": [
-                ["Erlebte Vergangenheit eines Anderen","～た","他人が体験した過去"],
-                ["Ausruf, Bewunderung","～なあ","詠嘆"]
+                ["Erlebte Vergangenheit eines Anderen - L. 4","～た","他人が体験した過去"],
+                ["Ausruf, Bewunderung - L. 4","～なあ","詠嘆"]
             ]
         },
         "つ": {
@@ -213,8 +217,9 @@
             },
             "活用": "下二段型",
             "Bedeutung": [
-                ["Abschluss, Fertigstellung","～てしまう","完了"],
-                ["Emphase","きっと～。必ず～","強意"]
+                ["Perfekt - L. 5","～た","完了"],
+                ["Emphase","きっと～。必ず～","強意"],
+                ["Abschluss, Fertigstellung","～てしまう","完了"]
             ]
         },
         "ぬ": {
@@ -228,8 +233,9 @@
             },
             "活用": "ナ変型",
             "Bedeutung": [
-                ["Abschluss, Fertigstellung","～てしまう","完了"],
-                ["Emphase","きっと～。必ず～","強意"]
+                ["Perfekt - L. 5","～た","完了"],
+                ["Emphase","きっと～。必ず～","強意"],
+                ["Abschluss, Fertigstellung","～てしまう","完了"]
             ]
         },
         "たり": {
@@ -243,8 +249,9 @@
             },
             "活用": "ラ変型",
             "Bedeutung": [
-                ["Abschluss, Fertigstellung","～てしまう。～てしまった。～た","完了"],
-                ["Fortdauer, Fortbestehen","～ている。～ていった。してある","存続"]
+                ["Perfekt - L. 5","～た","完了"],
+                ["Fortdauer, Fortbestehen - L. 5","～ている。～ていった。してある","存続"],
+                ["Abschluss, Fertigstellung","～てしまう。～てしまった。～た","完了"]
             ]
         },
         "けむ": {
@@ -258,7 +265,7 @@
             },
             "活用": "四段型",
             "Bedeutung": [
-                ["Vermutung in der Vergangenheit","～ただろう","過去推量"],
+                ["Vermutung in der Vergangenheit - L.10","～ただろう","過去推量"],
                 ["Ursachenvermutung in der Vergangenheit","〔どうして〕～たのだろう。〔～だから〕～なのだろう","過去の原因推量"],
                 ["Hörensagen / Unschreibung in der Vergangenheit","～たという。～たような","過去の伝聞・婉曲"]
             ]
@@ -274,7 +281,7 @@
             },
             "活用": "形容詞型",
             "Bedeutung": [
-                ["Hoffung, Wille","～たい","願望"]
+                ["Hoffung, Wille, Wunsch - L.11","～たい","願望"]
             ]
         },
         "Anmerkung": ""
@@ -291,12 +298,12 @@
             },
             "活用": "形容詞型",
             "Bedeutung": [
-                ["Selbstverständlich, Vorraussichtlich","～はずだ","当然"],
-                ["Wille, Absicht","～よう","意志"],
-                ["Möglichkeit","～できる","可能"],
-                ["Angemessenheit, Ratschlag","～するのがよい","適当"],
-                ["Befehl","～せよ","命令"],
-                ["Vermutung","～だろう。～しそうだ","推量"]
+                ["Befehl L. 8","～せよ","命令"],
+                ["Selbstverständlich, Vorraussichtlich L. 8","～はずだ","当然"],   
+                ["Möglichkeit - L. 8","～できる","可能"],
+                ["Wille, Absicht - L. 8","～よう","意志"],
+                ["Vermutung - L. 8","～だろう。～しそうだ","推量"],
+                ["Angemessenheit, Ratschlag","～するのがよい","適当"]
             ]
         },
         "らむ": {
@@ -310,8 +317,8 @@
             },
             "活用": "四段型",
             "Bedeutung": [
-                ["Vermutung in der Gegenwart","今頃は～ているだろう","現在推量"],
-                ["Ursachenvermutung in der Gegenwart","〔どうして〕～のだろう。〔～だから〕～なのだろう","現在の原因推量"],
+                ["Vermutung in der Gegenwart - L.10","今頃は～ているだろう","現在推量"],
+                ["Ursachenvermutung in der Gegenwart (mit Fragewort) - L.10","〔どうして〕～のだろう。〔～だから〕～なのだろう","現在の原因推量"],
                 ["Hörensagen / Umschreibung in der Gegenwart","～とかいう。～ような","現在の伝聞・婉曲"]
             ]
         },
@@ -326,7 +333,8 @@
             },
             "活用": "無変化型",
             "Bedeutung": [
-                ["Begründete Vermutung","～らしい","根拠のある推定"]
+                ["Begründete Vermutung","～らしい","根拠のある推定"],
+                ["Sichere Überzeugung - L. 10","きっと～だろう","推定"]
             ]
         },
         "めり": {
@@ -355,9 +363,9 @@
             },
             "活用": "形容詞型",
             "Bedeutung": [
+                ["Negative Absichtserklärung (will / werde nicht ...) - L. 8","～まい","打消意志"],
+                ["Negative Vermutung (warscheinlich nicht) L. 8","～ないだろう","打消推量"],
                 ["Selbstverständlich nicht (... sollte nicht ...)","～はずがない","打消当然"],
-                ["Negative Vermutung, Warscheinlich nicht","～ないだろう","打消推量"],
-                ["Negative Absichtserklärung (will / werde nicht ...)","～まい","打消意志"],
                 ["Unmöglichkeit","～できない","不可能"],
                 ["Untaiglichkeit, Negativer Rat","～しないほうがよい","不適当"],
                 ["Verbot","～してはならない","禁止"]
@@ -392,8 +400,8 @@
             },
             "活用": "形容動詞型",
             "Bedeutung": [
-                ["Feststellung, Behauptung","～である","断定"],
-                ["Daseinsbekundung","～にある。～にいる","存在"]
+                ["Feststellung, Behauptung - L. 3","～である","断定"],
+                ["Daseinsbekundung - L. 3","～にある。～にいる","存在"]
             ]
         },
         "Anmerkung": ""
@@ -427,6 +435,7 @@
             },
             "活用": "ラ変型",
             "Bedeutung": [
+                ["Perfekt - L. 5","～た","完了"],
                 ["Abschluss, Fertigstellung","～しまう。～てしまった。～た","完了"],
                 ["Fortdauer, Fortbestehen","～ている。～ていた。してある","存続"]
             ]
@@ -445,8 +454,8 @@
             },
             "活用": "形容詞型",
             "Bedeutung": [
-                ["Vergleich","～のようだ","比況"],
-                ["Veranschaulichung durch einen Vergleich","～のような","例示"]
+                ["Vergleich - L.11","～のようだ","比況"],
+                ["Veranschaulichung durch einen Vergleich - L.11","～のような","例示"]
             ]
         },
         "Anmerkung": ""
