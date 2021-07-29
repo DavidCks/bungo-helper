@@ -163,13 +163,13 @@
             "Anschluss": ["已然形", "未然形"],
             "已然形": {
                 "Bedeutung": [
-                    ["Kopulative Satzverbindung einer unbedingten Bedingung (als ..., immer wenn ...) L. 3", "と・ところ・～から・～ので・といつも", "順接確定条件"],
-                    ["Ursachenbedingung - L. 3", "ので", "原因条件"]
+                    ["Kopulative Satzverbindung einer unbedingten Bedingung (als ..., immer wenn ...)", "と・ところ・～から・～ので・といつも", "順接確定条件"],
+                    ["Ursachenbedingung", "ので", "原因条件"]
                 ]
             },
             "未然形": {
                 "Bedeutung": [
-                    ["Kopulative Satzverbindung einer hypothetischen Annahme - L. 3", "もし…ならば", "順接仮定条件"]
+                    ["Kopulative Satzverbindung einer hypothetischen Annahme", "もし…ならば", "順接仮定条件"]
                 ]
             }
         },
@@ -193,7 +193,7 @@
             "Anschluss": ["已然形"],
             "已然形": {
                 "Bedeutung": [
-                    ["Entgegengesetzte Satzverbindung einer <b>unbedingten</b> Bedingung (obwohl ..., obgleich ...) - L. 3","けれども","逆接確定条件"]
+                    ["Entgegengesetzte Satzverbindung einer <b>unbedingten</b> Bedingung (obwohl ..., obgleich ...)","けれども","逆接確定条件"]
                 ]
             }
         },
@@ -201,7 +201,7 @@
             "Anschluss": ["已然形"],
             "已然形": {
                 "Bedeutung": [
-                    ["Entgegengesetzte Satzverbindung einer unbedingten Bedingung (obwohl ..., obgleich ...) - L. 3","けれども","逆接確定条件"]
+                    ["Entgegengesetzte Satzverbindung einer unbedingten Bedingung (obwohl ..., obgleich ...)","けれども","逆接確定条件"]
                 ]
             }
         },
