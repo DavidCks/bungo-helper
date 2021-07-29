@@ -1364,6 +1364,76 @@
                 "Bedeutung": "enthaupten",
                 "Flexion": ""
             }
+        },
+        "かく": {
+            "0": {
+                "Variationen": [""],
+                "Bedeutung": "legen, platzieren",
+                "Flexion": ""
+            }
+        },
+        "ねがわくは": {
+            "0": {
+                "Variationen": ["願わくは"],
+                "Bedeutung": "hoffentlich | ich hoffe, dass...",
+                "Flexion": ""
+            }
+        },
+        "もちつき": {
+            "0": {
+                "Variationen": ["望月"],
+                "Bedeutung": "Vollmond, 15. Tag des Monatskalenders",
+                "Flexion": ""
+            }
+        },
+        "はな": {
+            "0": {
+                "Variationen": ["花"],
+                "Bedeutung": "Blumen, (Kirsch)blüten",
+                "Flexion": ""
+            }
+        },
+        "はなのしたにて": {
+            "0": {
+                "Variationen": ["花の下にて"],
+                "Bedeutung": "unter den (Kirsch)blüten",
+                "Flexion": ""
+            }
+        },
+        "よきほう": {
+            "0": {
+                "Variationen": ["よき方"],
+                "Bedeutung": "gute Richtung",
+                "Flexion": ""
+            }
+        },
+        "ころも": {
+            "0": {
+                "Variationen": ["衣", "きぬ", "い"],
+                "Bedeutung": "Kleidung, Gewand",
+                "Flexion": ""
+            }
+        },
+        "ちる": {
+            "0": {
+                "Variationen": ["散る"],
+                "Bedeutung": "abfallen (z.B. Blüten), auf den Boden fallen",
+                "Flexion": ""
+            }
+        },
+        "いざみにいく": {
+            "0": {
+                "Variationen": ["いざ見に行く"],
+                "Bedeutung": "Kirschblüten anschauen gehen",
+                "Flexion": ""
+            }
+        },
+        "こまなむ": {
+            "0": {
+                "Variationen": ["駒並む"],
+                "Bedeutung": "Pferde satteln",
+                "Flexion": ""
+            }
         }
     }
 }

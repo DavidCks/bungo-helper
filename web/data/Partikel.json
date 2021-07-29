@@ -105,7 +105,7 @@
             "体言・連体形": {
                 "Bedeutung": [
                     ["Parallel (auch..., etc.)","も","並列"],
-                    ["Emphase","","強意"]
+                    ["Emphase","も","強意"]
                 ]
             }
         },
@@ -113,7 +113,8 @@
             "Anschluss": ["体言", "連体形"],
             "体言・連体形": {
                 "Bedeutung": [
-                    ["Emphase","","強意"]
+                    ["Emphase","ぞ","強意"],
+                    ["Anmerkung", "Verb danach steht immer in der 連体形", "注"]
                 ]
             },
             "Anmerkung": "Verb danach steht immer in der 連体形."
@@ -122,7 +123,8 @@
             "Anschluss": ["体言", "連体形"],
             "体言・連体形": {
                 "Bedeutung": [
-                    ["Emphase","","強意"]
+                    ["Emphase","ぞ, こそ","強意"],
+                    ["Anmerkung", "Verb danach steht immer in der 連体形", "注"]
                 ]
             },
             "Anmerkung": "Verb danach steht immer in der 連体形."
