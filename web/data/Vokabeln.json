@@ -478,7 +478,7 @@
         "やがて": {
             "0": {
                 "Variationen": ["軈て"],
-                "Bedeutung": "gleich, auf der Stelle, direkt danach",
+                "Bedeutung": "gleich, auf der Stelle, sofort",
                 "Flexion": "副"
             }
         },
@@ -506,7 +506,7 @@
         "やう": {
             "0": {
                 "Variationen": ["ヨウ", "様"],
-                "Bedeutung": "Zustand, Lage, Situation",
+                "Bedeutung": "Zustand, Lage, Situation | Art und Weise",
                 "Flexion": "名"
             }
         },
@@ -562,7 +562,7 @@
         "おもふ": {
             "0": {
                 "Variationen": ["オモウ", "思ふ"],
-                "Bedeutung": "lieben",
+                "Bedeutung": "lieben, denken",
                 "Flexion": "他ハ四"
             }
         },
@@ -832,14 +832,19 @@
         },
         "うって": {
             "0": {
-                "Variationen": ["討手"],
+                "Variationen": ["打手"],
                 "Bedeutung": "Eine Person, die einen Feind oder Banditen besiegt oder gefangen nimmt, Ein Verfolger",
+                "Flexion": "名"
+            },
+            "1": {
+                "Variationen": ["打手"],
+                "Bedeutung": "Streitkräfte",
                 "Flexion": "名"
             }
         },
         "つかはす": {
             "0": {
-                "Variationen": ["遣はす", "ツカワス"],
+                "Variationen": ["遣はす", "ツカワス", "つがはす"],
                 "Bedeutung": "(mit fehlendem respekt) entsenden, delegieren",
                 "Flexion": "他サ四"
             }
@@ -1280,6 +1285,83 @@
             "0": {
                 "Variationen": ["弱う"],
                 "Bedeutung": "Schwach werden",
+                "Flexion": ""
+            }
+        },
+        "なかりせば": {
+            "0": {
+                "Variationen": ["無かりせば"],
+                "Bedeutung": "wenn es ... nicht gegeben hätte",
+                "Flexion": ""
+            }
+        },
+        "めいちょうければ": {
+            "0": {
+                "Variationen": ["命長ければ"],
+                "Bedeutung": "Wenn man lange lebt ...",
+                "Flexion": ""
+            }
+        },
+        "はじ": {
+            "0": {
+                "Variationen": ["恥"],
+                "Bedeutung": "Schande, Schmach",
+                "Flexion": ""
+            }
+        },
+        "おおし": {
+            "0": {
+                "Variationen": ["多し"],
+                "Bedeutung": "viel, eine Menge",
+                "Flexion": ""
+            }
+        },
+        "ただあき": {
+            "0": {
+                "Variationen": ["忠明"],
+                "Bedeutung": "(Name) eines Heian-zeitlichen Polizisten",
+                "Flexion": ""
+            }
+        },
+        "きよみず": {
+            "0": {
+                "Variationen": ["清水"],
+                "Bedeutung": "(Name) Tempel in Kyoto",
+                "Flexion": ""
+            }
+        },
+        "わすれてやむ": {
+            "0": {
+                "Variationen": ["忘れて止む"],
+                "Bedeutung": "vollständig vergessen",
+                "Flexion": ""
+            }
+        },
+        "いかなるところ": {
+            "0": {
+                "Variationen": ["いかなる所"],
+                "Bedeutung": "ein beliebiger Ort",
+                "Flexion": ""
+            }
+        },
+        "よろこぶ": {
+            "0": {
+                "Variationen": ["喜ぶ"],
+                "Bedeutung": "sich freuen",
+                "Flexion": ""
+            }
+        },
+        "よりとも": {
+            "0": {
+                "Variationen": ["頼朝"],
+                "Bedeutung": "(Name) Yoritomo",
+                "Flexion": ""
+            }
+        },
+        "はねる": {
+            "0": {
+                "Variationen": ["跳ねる"],
+                "Bedeutung": "enthaupten",
                 "Flexion": ""
             }
         }
