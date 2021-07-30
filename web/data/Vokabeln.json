@@ -207,7 +207,7 @@
         "はべり": {
             "0": {
                 "Variationen": ["侍り"],
-                "Bedeutung": "es ist (höfliche Form der Verben ある und いる",
+                "Bedeutung": "es ist (höfliche Form der Verben ある und いる)",
                 "Flexion": "自ラ変"
             }
         },
@@ -957,7 +957,7 @@
         "ちぢ": {
             "0": {
                 "Variationen": ["千ぢ", "千千"],
-                "Bedeutung": "Viel sein, Einige",
+                "Bedeutung": "einige | verschiedene (Arten)",
                 "Flexion": "名・形動ナリ"
             }
         },
@@ -1432,6 +1432,41 @@
             "0": {
                 "Variationen": ["駒並む"],
                 "Bedeutung": "Pferde satteln",
+                "Flexion": ""
+            }
+        },
+        "きしめる": {
+            "0": {
+                "Variationen": ["軋める"],
+                "Bedeutung": "knirschen, quietschen",
+                "Flexion": ""
+            }
+        },
+        "こがね": {
+            "0": {
+                "Variationen": ["金"],
+                "Bedeutung": "Gold",
+                "Flexion": ""
+            }
+        },
+        "くろがね": {
+            "0": {
+                "Variationen": ["鉄"],
+                "Bedeutung": "Eisen",
+                "Flexion": ""
+            }
+        },
+        "しく": {
+            "0": {
+                "Variationen": ["如く", "若く", "及く"],
+                "Bedeutung": "gleichkommen, ebenbürtig sein",
+                "Flexion": ""
+            }
+        },
+        "やく": {
+            "0": {
+                "Variationen": ["益"],
+                "Bedeutung": "Nutzen",
                 "Flexion": ""
             }
         }

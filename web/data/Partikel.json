@@ -179,7 +179,7 @@
             "Anschluss": ["終止形", "形容詞の連用形"],
             "已然形": {
                 "Bedeutung": [
-                    ["Entgegengesetzte Satzverbindung einer <b>hypothetischen</b> Bedingung (selbst wenn ..., auch wenn ...)","もし…ても","逆接確定条件"]
+                    ["Entgegengesetzte Satzverbindung einer hypothetischen Bedingung (selbst wenn ..., auch wenn ...)","もし…ても","逆接確定条件"]
                 ]
             }
         },
@@ -187,7 +187,7 @@
             "Anschluss": ["終止形", "形容詞の連用形"],
             "已然形": {
                 "Bedeutung": [
-                    ["Entgegengesetzte Satzverbindung einer <b>hypothetischen</b> Bedingung (selbst wenn ..., auch wenn ...)","もし…ても","逆接確定条件"]
+                    ["Entgegengesetzte Satzverbindung einer hypothetischen Bedingung (selbst wenn ..., auch wenn ...)","もし…ても","逆接確定条件"]
                 ]
             }
         },
@@ -195,7 +195,7 @@
             "Anschluss": ["已然形"],
             "已然形": {
                 "Bedeutung": [
-                    ["Entgegengesetzte Satzverbindung einer <b>unbedingten</b> Bedingung (obwohl ..., obgleich ...)","けれども","逆接確定条件"]
+                    ["Entgegengesetzte Satzverbindung einer unbedingten Bedingung (obwohl ..., obgleich ...)","けれども","逆接確定条件"]
                 ]
             }
         },
