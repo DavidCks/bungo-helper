@@ -1476,6 +1476,13 @@
                 "Bedeutung": "ｈören, (be)lauschen",
                 "Flexion": ""
             }
+        },
+        "ゆうべ": {
+            "0": {
+                "Variationen": ["夕べ"],
+                "Bedeutung": "Abend",
+                "Flexion": ""
+            }
         }
     }
 }
