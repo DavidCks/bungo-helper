@@ -29,11 +29,4 @@ No, no i dont.
 ### How to Contribute
 Just go through the Json files in the data directory, add your entry and hit me with that sweet sweet PR.
 
-**Table of Contents**
-
-[TOCM]
-
-[TOC]
-
-
 ###End
