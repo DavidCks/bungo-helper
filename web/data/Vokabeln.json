@@ -1083,7 +1083,7 @@
         "ほど": {
             "0": {
                 "Variationen": ["程"],
-                "Bedeutung": "(Hauptsächlich als Zeitangabe) Zeit, Stunde, zwischen",
+                "Bedeutung": "(Hauptsächlich als Zeitangabe) Zeit, Stunde | zwischen, während",
                 "Flexion": "地名"
             }
         },
@@ -1467,6 +1467,13 @@
             "0": {
                 "Variationen": ["益"],
                 "Bedeutung": "Nutzen",
+                "Flexion": ""
+            }
+        },
+        "きく": {
+            "0": {
+                "Variationen": ["聞く"],
+                "Bedeutung": "ｈören, (be)lauschen",
                 "Flexion": ""
             }
         }
