@@ -3,7 +3,7 @@ https://bungo-helper.herokuapp.com/web/ || http://bungo.gq
 
 ### Features
 - Search for Vocabulary, Verbal Suffixes and Particles
-- Also theres [this](http://https://bungo-helper.herokuapp.com/web/misc/Bungo-Meyer_Alle_S%C3%A4tze_mit_%C3%9Cbersetzung.pdf "this") file but shhhhhh, no one needs to know.
+- Also theres [this](https://bungo-helper.herokuapp.com/web/misc/Bungo-Meyer_Alle_S%C3%A4tze_mit_%C3%9Cbersetzung.pdf "this") file but shhhhhh, no one needs to know.
 
 # Search
 
