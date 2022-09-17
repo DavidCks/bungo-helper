@@ -1,5 +1,5 @@
 # Bungo Helper
-https://bungo-helper.herokuapp.com/web/ || http://bungo.gq
+https://bungo-helper.herokuapp.com/web/ || http://bungo.gq || https://web.archive.org/web/20220917211539/http://bungo-helper.herokuapp.com/web/ (if it goes offline)
 
 ### Features
 - Search for Vocabulary, Verbal Suffixes and Particles
